@@ -1,0 +1,10 @@
+Minimize number of components
+Change number of vertices in partitions and k in k-bisections
+ k: 2                    k: 3                    k: 4                   
+Difference:
+ 0   1   2   3           0   1   2   3           0   1   2   3          
+ 2 |   |   |   |         2 |   |   |   |         2 |   |   |   |        
+ 2 |   |   |   |         2 |   |   |   |         2 | 1 |                
+ 2 |   |   |   |         2 | 1 |                 2 | 1 |                
+ 0 |                     0 |                     0 |                    
+ 2 |   |   |   |         2 |   |   |   |         2 | 1 |                

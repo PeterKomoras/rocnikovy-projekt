@@ -1,0 +1,5 @@
+Minimize number of components
+Change k in k-bisections
+k:
+ 2  
+ 2 |
