@@ -1,5 +1,0 @@
-Minimize number of components
-Change number of vertices in partitions
-Difference:
- 0   1  
- 2 |
