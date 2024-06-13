@@ -1,0 +1,23 @@
+Minimize number of components
+Change k in k-bisections
+k:
+ 2   3   4   5  
+ 2 |
+ 4 | 2 |
+ 2 |
+ 4 | 3 | 2 |
+ 2 |
+ 2 |
+ 2 |
+ 2 |
+ 2 |
+ 4 | 3 | 2 |
+ 2 |
+ 4 | 3 | 2 |
+ 2 |
+ 0 |
+ 2 |
+ 2 |
+ 0 |
+ 2 |
+ 2147483647 | 3 | 2 |
